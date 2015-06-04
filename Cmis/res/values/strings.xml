@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Cmis</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_loginpage">LoginpageActivity</string>
+    <string name="user_name">User Name</string>
+    <string name="password">Password</string>
+    <string name="connect">Connect</string>
+ 
+    <string name="title_activity_cmisConnection">CmisConnection</string>
+    <string name="title_session_creations">Connecting Repository</string>
+    <string name="create_session_describtions"></string>
+    <string name="title_activity_rootfolders">Root Folders</string>
+    <string name="title_activity_favorites">Favorites</string>
+    <string name="title_activity_notifications">Notifications</string>
+    <string name="title_activity_search">Search</string>
+    
+    
+    <string name="folder_contextmenu_delete">Sil</string>
+    <string name="folder_contextmenu_uptade">Düzenle</string>
+    <string name="folder_contextmenu_properties">Özellikler</string>
+
+</resources>
